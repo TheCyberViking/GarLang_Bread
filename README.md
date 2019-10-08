@@ -1,6 +1,7 @@
 # GarLang_Bread
-for the meme of getting a serious blog to post a whole article about Garlic Bread, this Esolang was original wrote by AlanTheBlank a good friend
-check out his GitHub here - https://github.com/AlanTheBlank
+for the meme of getting a serious blog to post a whole article about Garlic Bread, this Esolang was originaly wrote by AlanTheBlank a good friend
+check out his GitHub here - https://github.com/AlanTheBlank and iv modified it massivly to work with gralic bread... 
+Im not a java programer so if the code doesnt work blame Alan lol
 
 A GarlicBread inspired esolang Based on the popular and most hated esolang BrainFuck
 
