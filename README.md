@@ -26,3 +26,8 @@ Usage: java garlicbread [filename] <output filename>
 [] = necessary <> = optional
 
 NOTE: Input file name must end with .uwu
+
+
+And now for some Stu Art
+
+[Gralic Stu.PNG]
