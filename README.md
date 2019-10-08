@@ -25,7 +25,7 @@ Usage: java garlicbread [filename] < output filename >
 
 [] = necessary <> = optional
 
-NOTE: Input file name must end with .gralicbread
+NOTE: Input file name must end with .gbread
 
 
 And now for some Stu Art
