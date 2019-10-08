@@ -21,11 +21,11 @@ glick prints the character of the current cell
 
 breadofthegarlic allows input for the current cell
 
-Usage: java garlicbread [filename] <output filename>
+Usage: java garlicbread [filename] < output filename >
 
 [] = necessary <> = optional
 
-NOTE: Input file name must end with .uwu
+NOTE: Input file name must end with .gralicbread
 
 
 And now for some Stu Art
