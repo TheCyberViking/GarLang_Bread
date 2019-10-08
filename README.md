@@ -1,5 +1,5 @@
 # GarLang_Bread
-for the meme of getting a serious blog post wrote about Garlic Bread, this Esolang was original wrote by AlanTheBlank a good friend
+for the meme of getting a serious blog to post a whole article about Garlic Bread, this Esolang was original wrote by AlanTheBlank a good friend
 check out his GitHub here - https://github.com/AlanTheBlank
 
 A GarlicBread inspired esolang Based on the popular and most hated esolang BrainFuck
