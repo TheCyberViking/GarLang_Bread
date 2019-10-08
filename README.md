@@ -30,4 +30,4 @@ NOTE: Input file name must end with .uwu
 
 And now for some Stu Art
 
-[Gralic Stu.PNG]
+![stuart](https://raw.githubusercontent.com/TheCyberViking/GarLang_Bread/master/Gralic%20Stu.PNG)
